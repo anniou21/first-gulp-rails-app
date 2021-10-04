@@ -11,6 +11,26 @@
   },
   "version": "0.1.0",
   "devDependencies": {
+    "gulp": "^4.0.2",
     "webpack-dev-server": "^3"
-  }
+  },
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "main": "babel.config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anniou21/first-gulp-rails-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anniou21/first-gulp-rails-app/issues"
+  },
+  "homepage": "https://github.com/anniou21/first-gulp-rails-app#readme"
 }
